@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80503052376",
+    "project_id": "locationmod-bb804",
+    "storage_bucket": "locationmod-bb804.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80503052376:android:a38eacfbbfe83f85c0522d",
+        "android_client_info": {
+          "package_name": "com.example.location_module"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0r6mKVNmMPkkM2dUHip-b9S5h9VfXl98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
