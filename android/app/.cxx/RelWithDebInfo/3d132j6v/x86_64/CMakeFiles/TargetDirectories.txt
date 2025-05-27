@@ -1,0 +1,2 @@
+E:/Backup/backup/New folder/location_module/android/app/.cxx/RelWithDebInfo/3d132j6v/x86_64/CMakeFiles/edit_cache.dir
+E:/Backup/backup/New folder/location_module/android/app/.cxx/RelWithDebInfo/3d132j6v/x86_64/CMakeFiles/rebuild_cache.dir
