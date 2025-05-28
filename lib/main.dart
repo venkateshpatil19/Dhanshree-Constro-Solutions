@@ -7,8 +7,9 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   await Supabase.initialize(
-    url: 'YOUR_SUPABASE_URL',
-    anonKey: 'YOUR_SUPABASE_ANON_KEY',
+    url: 'https://spwpopspnmvssyosiunl.supabase.co',
+    anonKey:
+        'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNwd3BvcHNwbm12c3N5b3NpdW5sIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDczMzUyMDcsImV4cCI6MjA2MjkxMTIwN30.F7BVv0gnLbKvP4vt36eA_CPXH8WqZ7kCzzzAHEPQg5k',
   );
 
   runApp(const MyApp());
@@ -62,7 +63,9 @@ class _EntryPageState extends State<EntryPage> {
         body: Center(child: CircularProgressIndicator()),
       );
     } else {
-      // return isLoggedIn ? const HomePage() : const AuthPage();
+      return isLoggedIn ? const HomePage() : const AuthPage();
     }
   }
 }
+
+
