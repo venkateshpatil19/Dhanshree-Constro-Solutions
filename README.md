@@ -27,6 +27,12 @@ samples, guidance on mobile development, and a full API reference.
   Implemented `EntryPage` logic to check current user session and route to `AuthPage` or `HomePage` accordingly.  
   Ensured smooth navigation based on login state using Supabase session management.
 
-  - **May 29, 2025**
+- **May 29, 2025**
+  Created `sign_up_page.dart` with fields for username, email, and password.
+  Integrated Supabase sign-up functionality using `auth.signUp()`.
+  Inserted user details into `profiles` table after registration.
+  Redirected to email verification page on success.
+  Implemented error handling and loading state management.
+
   
 
