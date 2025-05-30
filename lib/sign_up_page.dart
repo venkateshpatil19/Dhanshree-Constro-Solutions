@@ -40,7 +40,7 @@ class _SignUpPageState extends State<SignUpPage> {
         if (mounted) {
           Navigator.pushReplacement(
             context,
-            // MaterialPageRoute(builder: (_) => const VerifyEmailPage()),
+            MaterialPageRoute(builder: (_) => const VerifyEmailPage()),
           );
         }
       }
