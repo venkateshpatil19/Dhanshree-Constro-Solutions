@@ -1,0 +1,59 @@
+[33mcommit 9f5115b439ca1bef40397ca798a0eaee0944b500[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: venkateshpatil19 <patilvenkatesh1974@gamil.com>
+Commit: venkateshpatil19 <patilvenkatesh1974@gamil.com>
+
+    Day 5 (30-05-2025) : Added email verification screen and login logic with Supabase session check
+
+[33mcommit 76958b555c587a160549a3b40284563513fb975b[m
+Author: venkateshpatil19 <patilvenkatesh1974@gamil.com>
+Commit: venkateshpatil19 <patilvenkatesh1974@gamil.com>
+
+    Day 5 Bug Fixes
+
+[33mcommit 466bfff72266eec1c9c0172e973042fce8eae90d[m
+Author: venkateshpatil19 <patilvenkatesh1974@gmail.com>
+Commit: venkateshpatil19 <patilvenkatesh1974@gmail.com>
+
+    Day 4: Implemented Sign-Up page with Supabase integration and profiles table insert
+
+[33mcommit 75eff71c45d21f6413ef8d443325bfc79d969a70[m
+Author: venkateshpatil19 <patilvenkatesh1974@gmail.com>
+Commit: venkateshpatil19 <patilvenkatesh1974@gmail.com>
+
+    Few Changes
+
+[33mcommit 21c17ab79626c917a9d8da201872c482657953c6[m
+Author: venkateshpatil19 <patilvenkatesh1907@gmail.com>
+Commit: venkateshpatil19 <patilvenkatesh1907@gmail.com>
+
+    Day 3: pubspec fixes
+
+[33mcommit 9c03273e9a3d793a0a6a19a69966eb5010406b31[m
+Author: venkateshpatil19 <patilvenkatesh1907@gmail.com>
+Commit: venkateshpatil19 <patilvenkatesh1907@gmail.com>
+
+    Day 3: Fixes: Home Page loading and Supabase initialization
+
+[33mcommit 551c8dc41b34c00385bd5cd3833337afd3eb460e[m
+Author: venkateshpatil19 <patilvenkatesh1907@gmail.com>
+Commit: venkateshpatil19 <patilvenkatesh1907@gmail.com>
+
+    Day 3: Connected AuthPage to main app via EntryPage
+
+[33mcommit cd8db1874183c8aa44ca3b0396d9897b815e1c8b[m
+Author: venkateshpatil19 <patilvenkatesh1907@gmail.com>
+Commit: venkateshpatil19 <patilvenkatesh1907@gmail.com>
+
+    Day 2(27th May ): Login UI skeleton
+
+[33mcommit 365ae55b0697eec601ff83b96b4c8acdec84d43b[m
+Author: venkateshpatil19 <patilvenkatesh1907@gmail.com>
+Commit: venkateshpatil19 <patilvenkatesh1907@gmail.com>
+
+    Day 1: Initial project setup
+
+[33mcommit e6a1425c972252ba6b060268c61bd0d27c910e25[m
+Author: venkateshpatil19 <patilvenkatesh1907@gmail.com>
+Commit: venkateshpatil19 <patilvenkatesh1907@gmail.com>
+
+    first commit
